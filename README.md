@@ -1,9 +1,9 @@
-<h1 align="center">Robot Platform</h1>
+<h1 align="center">Argos</h1>
 
-<p align="center">Software platform for mobile robots running computer vision applications.</p>
+<p align="center">Real-time crop counting on field robots, running computer vision on the edge.</p>
 
 <p align="center">
-  <img src="assets/2026-05-06-20-56-02.png" alt="Robot Platform en operación">
+  <img src="assets/2026-05-06-20-56-02.png" alt="Argos en operación">
 </p>
 
 ## Features
